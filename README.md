@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aleksgi.github.io/rsschool-cv/cv
