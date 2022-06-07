@@ -4,7 +4,10 @@
 
 aleksgi@ya.ru
 
-I want to learn Front-End Development in RSSchool
+===
+### about myself:
+
+ I want to learn Front-End Development in RSSchool
 
 ### skills:
 html, git
