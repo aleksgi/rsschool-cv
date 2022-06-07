@@ -1,14 +1,14 @@
 # Aleksandr Gibadullin
-===
+
 ### contacs:
 
 aleksgi@ya.ru
-===
+
 I want to learn Front-End Development in RSSchool
-===
+
 ### skills:
 html, git
-===
+
 ### code example:
 ```
 function truncate(str, maxlength) {
@@ -20,9 +20,9 @@ function truncate(str, maxlength) {
   return str;
 }
 ```
-===
+
 ### courses: 
-HTML and CSS
+ HTML and CSS
 ===
 ### Languages:
  English - Pre-Intermediate
