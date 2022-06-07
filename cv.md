@@ -1,9 +1,14 @@
-* 1. My name is Aleksandr Gibadullin
-* 2. contacs:
+### Aleksandr Gibadullin
+===
+## contacs:
 aleksgi@ya.ru
-* 3. I want to learn Front-End Development in RSSchool
-* 4. skills: git
-* 5. code example:
+===
+I want to learn Front-End Development in RSSchool
+===
+# skills:
+html, git
+===
+# code example:
 ```
 function truncate(str, maxlength) {
   let newStr;
@@ -14,5 +19,9 @@ function truncate(str, maxlength) {
   return str;
 }
 ```
-* 6. HTML
-* 7. English - Pre-Intermediate
+===
+# courses: 
+HTML and CSS
+===
+# Languages:
+ English - Pre-Intermediate
